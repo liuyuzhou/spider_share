@@ -1,0 +1,7 @@
+运行项目需要安装如下包：
+
+requests、bs4、sqlalchemy
+
+windows下可以使用  pip install 命令。
+
+linux下可以使用 pip install命令或直接源码安装，以自己喜欢方式安装即可。
