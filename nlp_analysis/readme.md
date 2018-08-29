@@ -1,4 +1,4 @@
-项目需要安装如下依赖：
+项目运行需要安装如下包：
 requests、jieba、SQLAlchemy、PyMySQL、pyecharts等。
 
 (若没有安装pyecharts，anaconda prompt下执行： pip install pyecharts
