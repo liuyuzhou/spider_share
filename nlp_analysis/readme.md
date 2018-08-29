@@ -1,5 +1,9 @@
+项目需要安装如下依赖：
+requests、jieba、SQLAlchemy、PyMySQL、pyecharts等。
+
 (若没有安装pyecharts，anaconda prompt下执行： pip install pyecharts
 若安装失败，可以查看这篇博文：https://blog.csdn.net/f823154/article/details/80671072)
+
 1、执行 models.py 文件，在 teacher 库中生成 nlp_analysis 表 （环境若配置正确，执行 run.py 文件会自动在对应库下生成表）
 
 2、入口程序 run.py
