@@ -21,7 +21,7 @@ pyecharts==0.5.9
 pyecharts-javascripthon==0.0.6
 pyecharts-jupyter-installer==0.0.3
 PyMySQL==0.9.2
-requests==2.19.1
+requests==2.20.0
 six==1.11.0
 SQLAlchemy==1.2.11
 urllib3==1.23
