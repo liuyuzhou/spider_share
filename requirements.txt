@@ -15,7 +15,7 @@ jupyter-echarts-pypkg==0.1.2
 lml==0.0.2
 macropy3==1.1.0b2
 MarkupSafe==1.0
-Pillow==5.2.0
+Pillow==8.3.2
 pycparser==2.18
 pyecharts==0.5.9
 pyecharts-javascripthon==0.0.6
